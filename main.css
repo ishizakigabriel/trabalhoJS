@@ -1,0 +1,44 @@
+.rounded {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-family: 'Arial';
+    font-weight: 500;
+}
+
+.operacao {
+    border: none;
+    background-color: crimson;
+    color: white;
+}
+
+.blue {
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.green {
+    border: none;
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.text {
+    border: 1px solid #DDD;
+}
+
+.button {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+
+.myForm {
+    width: 400px;
+}
+

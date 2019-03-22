@@ -1,0 +1,82 @@
+{
+    "categorias":[
+        {
+            "nome" : "livros",
+            "livros" : [
+            {
+                
+                "id" : 0,
+                "nome": "O código da Vinci",
+                "autor": "Dan Brown" 
+            },
+            {
+                "id" : 1,
+                "nome": "Crônicas de gelo e fogo",
+                "autor": "George R. R. Martin" 
+            },
+            {
+                "id" : 2,
+                "nome": "O Silmarillon",
+                "autor": "J. R. R. Tolkien" 
+            },
+            {
+                "id" : 3,
+                "nome": "Harry Potter",
+                "autor": "J. K. Rowling" 
+            }],
+            "imagem" : "livros.jpg"
+        },
+        {
+            "nome" : "filmes",
+            "filmes" : [
+            {
+                
+                "id" : 0,
+                "nome": "Jurassic Park",
+                "diretor": "Stephen Spielberg" 
+            },
+            {
+                "id" : 1,
+                "nome": "Guardiões da Galáxia",
+                "diretor": "James Gunn" 
+            },
+            {
+                "id" : 2,
+                "nome": "Invocação do mal",
+                "diretor": "James Wan" 
+            },
+            {
+                "id" : 3,
+                "nome": "Harry Potter",
+                "diretor": "David Yates" 
+            }],
+            "imagem" : "filmes.jpg" 
+        },
+        {
+            "nome" : "jogos",
+            "jogos" : [
+            {
+                
+                "id" : 0,
+                "nome": "Assassin's Creed",
+                "publisher": "Ubisoft" 
+            },
+            {
+                "id" : 1,
+                "nome": "RE2: Remake",
+                "publisher": "CAPCOM" 
+            },
+            {
+                "id" : 2,
+                "nome": "League of Legends",
+                "publisher": "Riot Games" 
+            },
+            {
+                "id" : 3,
+                "nome": "Left 4 Dead",
+                "publisher": "Steam" 
+            }],
+            "imagem" : "jogos.jpg"
+        }
+    ]
+}
